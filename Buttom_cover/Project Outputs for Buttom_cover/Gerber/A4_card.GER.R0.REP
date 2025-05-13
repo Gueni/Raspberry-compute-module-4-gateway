@@ -1,0 +1,89 @@
+*************************************************************
+FileName = A4_card.GER.R0.GBR
+AutoAperture = True
+*************************************************************
+Generating : ASMPrintTop
+      File : A4_card.GER.R0.GM32
+
+    Adding Layer      : ASMPrintTop
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : ASMPrintBot
+      File : A4_card.GER.R0.GM31
+
+    Adding Layer      : ASMPrintBot
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : PCBPrint
+      File : A4_card.GER.R0.GM16
+
+    Adding Layer      : PCBPrint
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : A4_card.GER.R0.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : A4_card.GER.R0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : A4_card.GER.R0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : A4_card.GER.R0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : A4_card.GER.R0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+

@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=CELLULAR.SchDoc|SheetNumber=03
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=HMI.SchDoc|SheetNumber=09
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=LAN.SchDoc|SheetNumber=04
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=POWER SUPPLY.SchDoc|SheetNumber=02
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=RS-485.SchDoc|SheetNumber=05
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=SD-CARD.SchDoc|SheetNumber=06
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=UNUSED INTERFACES.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=USB HUB 1X4.SchDoc|SheetNumber=07
+Record=NoMainPathDocument|SourceDocument=CELLULAR.SchDoc|FileName=WAN.SchDoc|SheetNumber=08

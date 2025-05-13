@@ -1,0 +1,20 @@
+Output: A4_card.GER.R0
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [buttom_cover.PcbDoc]
+   Generated File[A4_card.GER.R0.GTO]
+   Generated File[A4_card.GER.R0.GTL]
+   Generated File[A4_card.GER.R0.GBL]
+   Generated File[A4_card.GER.R0.GM15]
+   Generated File[A4_card.GER.R0.GM16]
+   Generated File[A4_card.GER.R0.GM31]
+   Generated File[A4_card.GER.R0.GM32]
+   Generated File[A4_card.GER.R0.GKO]
+   Generated File[A4_card.GER.R0.RUL]
+   Generated File[A4_card.GER.R0.EXTREP]
+   Generated File[A4_card.GER.R0.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 7:55:49 PM On 5/13/2025
