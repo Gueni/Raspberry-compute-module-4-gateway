@@ -389,54 +389,37 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
-DocumentPath=cm4gateway.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Parameter1]
-Name=.THICKNESS
-Value=?
+Name=.CLIENT
+Value=ENERGY SOLUTION
 
 [Parameter2]
-Name=.REVISION
-Value=R0
-
-[Parameter3]
-Name=.PCB Assembly Number
-Value=1
-
-[Parameter4]
-Name=.PCB-TITLE
-Value=TIMEBOX4.0
-
-[Parameter5]
-Name=.ENGINEER
-Value=M.GUENI
-
-[Parameter6]
-Name=.Echelle
-Value=1/1
-
-[Parameter7]
 Name=.Copper thickness
 Value=?
 
+[Parameter3]
+Name=.Echelle
+Value=1/1
+
+[Parameter4]
+Name=.ENGINEER
+Value=M.GUENI
+
+[Parameter5]
+Name=.PCB-TITLE
+Value=TIMEBOX4.0
+
+[Parameter6]
+Name=.PCB Assembly Number
+Value=1
+
+[Parameter7]
+Name=.REVISION
+Value=R0
+
 [Parameter8]
-Name=.CLIENT
-Value=ENERGY SOLUTION
+Name=.THICKNESS
+Value=?
 
 [Configuration1]
 Name=Sources
