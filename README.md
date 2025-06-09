@@ -42,40 +42,40 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 
 The design consists of several key sections:
 
-1. **Power Supply** (Page 1)
+1. **Power Supply** 
    - Dual LMR33640 switching regulators
    - 3.3V LDO regulator
    - Power monitoring circuitry
 
-2. **Compute Module 4 Interface** (Page 2)
+2. **Compute Module 4 Interface** 
    - CM4 pin connections
    - GPIO breakout
    - Status LEDs
 
-3. **SD Card Interface** (Page 4)
+3. **SD Card Interface** 
    - MAX4996 protection IC
    - Dual SD card slots
 
-4. **USB Hub** (Page 5)
+4. **USB Hub** 
    - USB2514B controller
    - ESD protection
    - Port power management
 
-5. **CPU Supervisor** (Page 6)
+5. **CPU Supervisor** 
    - PIC16F18857 microcontroller
    - System monitoring
    - Reset control
 
-6. **Cellular Modem** (Page 7)
+6. **Cellular Modem** 
    - u-blox LARA-R6 module
    - SIM card interface
    - USB connection
 
-7. **Ethernet Interfaces** (Page 9)
+7. **Ethernet Interfaces** 
    - Dual LAN9500A controllers
    - Magnetics and protection
    - LED indicators
 
-8. **I2C Peripherals** (Page 10)
+8. **I2C Peripherals** 
    - MCP7940NT RTC with battery backup
    - OLED display interface
