@@ -94,7 +94,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -111,7 +111,7 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -128,7 +128,7 @@ AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -145,7 +145,7 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -162,7 +162,7 @@ AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -196,7 +196,7 @@ AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -390,36 +390,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=.CLIENT
-Value=ENERGY SOLUTION
+Name=.REVISION
+Value=R0
 
 [Parameter2]
-Name=.Copper thickness
-Value=?
+Name=.PCB Assembly Number
+Value=1
 
 [Parameter3]
-Name=.Echelle
-Value=1/1
+Name=.PCB-TITLE
+Value=CM4G
 
 [Parameter4]
 Name=.ENGINEER
 Value=M.GUENI
 
 [Parameter5]
-Name=.PCB-TITLE
-Value=TIMEBOX4.0
-
-[Parameter6]
-Name=.PCB Assembly Number
-Value=1
-
-[Parameter7]
-Name=.REVISION
-Value=R0
-
-[Parameter8]
-Name=.THICKNESS
-Value=?
+Name=.Echelle
+Value=1/1
 
 [Configuration1]
 Name=Sources
