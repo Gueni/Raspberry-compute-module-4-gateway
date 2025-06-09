@@ -1,0 +1,157 @@
+Removed Member From Class: ClassName=RS-485 Member=C32
+Removed Member From Class: ClassName=SD-CARD Member=C50
+Removed Member From Class: ClassName=USB HUB Member=C60
+Removed Member From Class: ClassName=CPU_superviser Member=D5
+Removed Member From Class: ClassName=CPU_superviser Member=D6
+Removed Member From Class: ClassName=RPI Member=R14
+Removed Member From Class: ClassName=RPI Member=R16
+Removed Member From Class: ClassName=RPI Member=R18
+Removed Member From Class: ClassName=RS-485 Member=R28
+Removed Member From Class: ClassName=RS-485 Member=R30
+Removed Member From Class: ClassName=SD-CARD Member=R44
+Removed Member From Class: ClassName=SD-CARD Member=R46
+Removed Member From Class: ClassName=SD-CARD Member=R48
+Removed Member From Class: ClassName=SD-CARD Member=R50
+Removed Member From Class: ClassName=USB HUB Member=R65
+Removed Member From Class: ClassName=USB HUB Member=R67
+Removed Member From Class: ClassName=USB HUB Member=R69
+Removed Member From Class: ClassName=RPI Member=U8
+Removed Member From Class: ClassName=RPI Member=U9
+Removed Member From Class: ClassName=SD-CARD Member=U9
+Removed Member From Class: ClassName=USB HUB Member=U13
+Removed Member From Class: ClassName=LAN & Ethernet Member=U19
+Add Pin To Net: Unknown Pin: Pin J12-4
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U20-1
+Add Pin To Net: Unknown Pin: Pin U20-2
+Add Pin To Net: Unknown Pin: Pin U20-3
+Add Pin To Net: Unknown Pin: Pin U20-4
+Add Pin To Net: Unknown Pin: Pin U20-5
+Add Pin To Net: Unknown Pin: Pin U20-6
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C1 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C3 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C5 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C8 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C10 T491D476K006AT
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C12 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C14 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C16 GRM188R61E106MA73D
+Added Member To Class: ClassName=POWER SUPPLY Member=Component C18 C0603C103J5RACTU
+Added Member To Class: ClassName=RPI Member=Component C20 GRM188R71H104KA93D
+Added Member To Class: ClassName=RPI Member=Component C23 GRM188R71H104KA93D
+Added Member To Class: ClassName=RPI Member=Component C25 GRM188R71H104KA93D
+Added Member To Class: ClassName=RPI Member=Component C27 GRM188R61H106KAALD
+Added Member To Class: ClassName=RPI Member=Component C29 GRM188R61H106KAALD
+Added Member To Class: ClassName=RPI Member=Component C31 GRM188R71H104KA93D
+Added Member To Class: ClassName=RS-485 Member=Component C33 GRM188R71H104KA93D
+Added Member To Class: ClassName=RS-485 Member=Component C35 GRM188R61H475KE11D
+Added Member To Class: ClassName=RS-485 Member=Component C37 GRM188R71H104KA93D
+Added Member To Class: ClassName=RS-485 Member=Component C39
+Added Member To Class: ClassName=RS-485 Member=Component C41 C0603C270F4HACTU
+Added Member To Class: ClassName=RS-485 Member=Component C43 GRM188R71H104KA93D
+Added Member To Class: ClassName=RS-485 Member=Component C45 GRM188R71H104KA93D
+Added Member To Class: ClassName=RS-485 Member=Component C47 GRM188R71H104KA93D
+Added Member To Class: ClassName=RS-485 Member=Component C49 GRM188R71H104KA93D
+Added Member To Class: ClassName=SD-CARD Member=Component C51 GRM188R71H104KA93D
+Added Member To Class: ClassName=SD-CARD Member=Component C53 GRM188R61H106KAALD
+Added Member To Class: ClassName=SD-CARD Member=Component C55 GRM188R71H104KA93D
+Added Member To Class: ClassName=SD-CARD Member=Component C57 GRM188R71H104KA93D
+Added Member To Class: ClassName=SD-CARD Member=Component C59 GRM188R71H104KA93D
+Added Member To Class: ClassName=SD-CARD Member=Component C61 GRM188R71H104KA93D
+Added Member To Class: ClassName=USB HUB Member=Component C62 GRM188R71H104KA93D
+Added Member To Class: ClassName=USB HUB Member=Component C64 GRM188R71H104KA93D
+Added Member To Class: ClassName=USB HUB Member=Component C66 GRM188R71H104KA93D
+Added Member To Class: ClassName=USB HUB Member=Component C68 GRM188R71H104KA93D
+Added Member To Class: ClassName=USB HUB Member=Component C70 GRM1885C1H180JA01D
+Added Member To Class: ClassName=USB HUB Member=Component C72 GRM188R71H104KA93D
+Added Member To Class: ClassName=CPU_superviser Member=Component C75 Capacitor
+Added Member To Class: ClassName=CPU_superviser Member=Component C77 Capacitor
+Added Member To Class: ClassName=CPU_superviser Member=Component C78 Capacitor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component D1 CDSOD323-T12LC
+Added Member To Class: ClassName=RPI Member=Component D2 150060GS75000
+Added Member To Class: ClassName=RS-485 Member=Component D3 CDSOD323-T12LC
+Added Member To Class: ClassName=RS-485 Member=Component D4 CDSOD323-T12LC
+Added Member To Class: ClassName=CPU_superviser Member=Component D7 150060BS75000
+Added Member To Class: ClassName=CPU_superviser Member=Component D8 150060RS75000
+Added Member To Class: ClassName=CPU_superviser Member=Component D9 150060GS75000
+Added Member To Class: ClassName=CPU_superviser Member=Component D10 150060GS75000
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R2 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R3 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R4 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R5 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R6 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R7 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R9 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R11 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R13 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R15 Resistor
+Added Member To Class: ClassName=POWER SUPPLY Member=Component R17 Resistor
+Added Member To Class: ClassName=RPI Member=Component R19 RN731JTTD1001F25
+Added Member To Class: ClassName=RPI Member=Component R21 RN731JTTD2201F25
+Added Member To Class: ClassName=RPI Member=Component R23 RN731JTTD1001F25
+Added Member To Class: ClassName=RPI Member=Component R25
+Added Member To Class: ClassName=RPI Member=Component R27 RN731JTTD1001F25
+Added Member To Class: ClassName=RPI Member=Component R29
+Added Member To Class: ClassName=RPI Member=Component R31 RN731JTTD1001F25
+Added Member To Class: ClassName=RS-485 Member=Component R33 RN731JTTD1002F25
+Added Member To Class: ClassName=RS-485 Member=Component R35 RN731JTTD2201F25
+Added Member To Class: ClassName=RS-485 Member=Component R37
+Added Member To Class: ClassName=RS-485 Member=Component R39
+Added Member To Class: ClassName=RS-485 Member=Component R41
+Added Member To Class: ClassName=RS-485 Member=Component R43 RN731JTTD1001F25
+Added Member To Class: ClassName=RS-485 Member=Component R45
+Added Member To Class: ClassName=RS-485 Member=Component R47
+Added Member To Class: ClassName=RS-485 Member=Component R49 RN731JTTD1002F25
+Added Member To Class: ClassName=SD-CARD Member=Component R51 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R53 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R54 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R55 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R56 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R57 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R58 RN731JTTD1001F25
+Added Member To Class: ClassName=SD-CARD Member=Component R60 RN731JTTD1002F25
+Added Member To Class: ClassName=SD-CARD Member=Component R62 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R64 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R66 ERJ-3EKF22R0V
+Added Member To Class: ClassName=SD-CARD Member=Component R68 RN731JTTD1002F25
+Added Member To Class: ClassName=USB HUB Member=Component R70 CPF0603B10KE
+Added Member To Class: ClassName=USB HUB Member=Component R72 TNPW0603100KBEA
+Added Member To Class: ClassName=USB HUB Member=Component R74 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R76 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R78 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R80 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R82 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R84 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R86 ERJ-3EKF22R0V
+Added Member To Class: ClassName=USB HUB Member=Component R88 TNPW0603100KBEA
+Added Member To Class: ClassName=USB HUB Member=Component R90 CPF0603B10KE
+Added Member To Class: ClassName=CPU_superviser Member=Component R96 Resistor
+Added Member To Class: ClassName=CPU_superviser Member=Component R97 Resistor
+Added Member To Class: ClassName=CPU_superviser Member=Component R98 Resistor
+Added Member To Class: ClassName=CPU_superviser Member=Component R99 Resistor
+Added Member To Class: ClassName=CPU_superviser Member=Component R100 Resistor
+Added Member To Class: ClassName=RS-485 Member=Component U10 SN75176ADR
+Added Member To Class: ClassName=RS-485 Member=Component U11 SN75176ADR
+Added Member To Class: ClassName=SD-CARD Member=Component U12 MAX4996LETG+
+MAX4996LETG+
+Added Member To Class: ClassName=SD-CARD Member=Component U14 TPS22919DCKR
+Added Member To Class: ClassName=USB HUB Member=Component U17 USB2514B/M2
+Added Member To Class: ClassName=USB HUB Member=Component U18 AT24C04D-XHM-B
+Added Member To Class: ClassName=LAN & Ethernet Member=Component U24 TPD4EUSB30DQAR
