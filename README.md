@@ -4,7 +4,7 @@
 Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 (CM4) with extensive connectivity options including USB, Ethernet, cellular, and more.
 
 ![Gateway Overview](1.png)
-![Gateway Overview](2.png)
+![Gateway bottom](2.png)
 ## Features
 
 - **Raspberry Pi CM4** at its core
@@ -19,7 +19,7 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 - **Multiple GPIO** breakout options
 
 ## Hardware Specifications
-![Gateway Overview](3.png)
+![Gateway open](3.png)
 ### Power Supply
 - Input voltage: 5V DC
 - Dual LMR33640 switching regulators (3.8V and 5V outputs)
@@ -37,7 +37,8 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 - Multiple GPIO breakout
 - Status LEDs (power, network, error, warning)
 - Reset and user buttons
-
+![PCB3D](4.png)
+![PCB](5.png)
 ## Schematic Overview
 
 The design consists of several key sections:
