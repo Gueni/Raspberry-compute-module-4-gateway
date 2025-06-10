@@ -389,25 +389,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for cm4gateway\Footprint Comparison - cm4gateway.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=.REVISION
-Value=R0
+Name=.Echelle
+Value=1/1
 
 [Parameter2]
-Name=.PCB Assembly Number
-Value=1
+Name=.ENGINEER
+Value=M.GUENI
 
 [Parameter3]
 Name=.PCB-TITLE
 Value=CM4G
 
 [Parameter4]
-Name=.ENGINEER
-Value=M.GUENI
+Name=.PCB Assembly Number
+Value=1
 
 [Parameter5]
-Name=.Echelle
-Value=1/1
+Name=.REVISION
+Value=R0
 
 [Configuration1]
 Name=Sources
