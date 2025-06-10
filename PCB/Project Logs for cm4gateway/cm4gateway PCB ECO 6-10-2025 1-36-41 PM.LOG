@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3v8 Pin=R10-2
+Removed Pin From Net: NetName=3v8 Pin=R12-2
+Removed Pin From Net: NetName=3v8 Pin=R14-2
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=5V Pin=R12-2
+Added Pin To Net: NetName=5V Pin=R14-2
+Added Rule: Name=Schematic Supply Nets_12
