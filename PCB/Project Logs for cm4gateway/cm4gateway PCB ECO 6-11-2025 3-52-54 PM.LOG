@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=UH_SCL Pin=R71-1
+Removed Pin From Net: NetName=GND Pin=R71-2
+Removed Pin From Net: NetName=UH_SDA Pin=R72-1
+Removed Pin From Net: NetName=GND Pin=R72-2
+Removed Pin From Net: NetName=UH_HS_IND Pin=R73-1
+Removed Pin From Net: NetName=GND Pin=R73-2
+Removed Member From Class: ClassName=USB HUB Member=R71
+Removed Member From Class: ClassName=USB HUB Member=R72
+Removed Member From Class: ClassName=USB HUB Member=R73
