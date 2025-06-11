@@ -39,6 +39,7 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 - Reset and user buttons
 ![PCB3D](4.png)
 ![PCB](5.png)
+![PCB3Dback](6.png)
 ## Schematic Overview
 
 The design consists of several key sections:

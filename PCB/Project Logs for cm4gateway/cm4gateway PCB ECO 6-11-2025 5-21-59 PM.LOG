@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3v8 Pin=C79-1
+Removed Pin From Net: NetName=GND Pin=C79-2
+Change Component Footprint: Designator=C79 Old Footprint=865080545012 New Footprint=CAPC1210
+Change Component Comment : Designator=C79 Old Comment= New Comment=T491D476K006AT
+Change component parameters: Designator = "C79" ("C79"); Footprint = "865080545012"; UniqueID = "\NUZLJWQT\KFXTHIXX" ("\NUZLJWQT\KFXTHIXX")
+Change component parameters (AddParameter): Name = "DES"; Value = "Tantalum Capacitor, 47 µF, 6.3V, 1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FTP"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAN"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANREF"; Value = "T491D476K006AT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-000000029"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPREF"; Value = "581-T491D476K006AT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 1"; Value = "47 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 2"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=3v8 Pin=C79-2

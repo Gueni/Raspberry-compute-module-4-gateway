@@ -1,0 +1,60 @@
+Change Component DesignItemId : Designator=D11 Old DesignItemId=TVS-000000002 New DesignItemId=TVS-000000003
+Change Component DesignItemId : Designator=D12 Old DesignItemId=TVS-000000002 New DesignItemId=TVS-000000003
+Change Component DesignItemId : Designator=D13 Old DesignItemId=TVS-000000002 New DesignItemId=TVS-000000003
+Change Component DesignItemId : Designator=D14 Old DesignItemId=TVS-000000002 New DesignItemId=TVS-000000003
+Change Component Footprint: Designator=D11 Old Footprint=DIONM5127X229N New Footprint=CDSOD323T12LC
+Change Component Footprint: Designator=D12 Old Footprint=DIONM5127X229N New Footprint=CDSOD323T12LC
+Change Component Footprint: Designator=D13 Old Footprint=DIONM5127X229N New Footprint=CDSOD323T12LC
+Change Component Footprint: Designator=D14 Old Footprint=DIONM5127X229N New Footprint=CDSOD323T12LC
+Change Component Comment : Designator=D11 Old Comment=SMAJ24CA-Q New Comment=CDSOD323-T12LC
+Change Component Comment : Designator=D12 Old Comment=SMAJ24CA-Q New Comment=CDSOD323-T12LC
+Change Component Comment : Designator=D13 Old Comment=SMAJ24CA-Q New Comment=CDSOD323-T12LC
+Change Component Comment : Designator=D14 Old Comment=SMAJ24CA-Q New Comment=CDSOD323-T12LC
+Change component parameters: Designator = "D11" ("D11"); Footprint = "DIONM5127X229N"; UniqueID = "\NUZLJWQT\GWPWTIPO" ("\NUZLJWQT\GWPWTIPO")
+Change component parameters (AddParameter): Name = "DES"; Value = "ESD Protection Diodes / TVS Diodes Bidirectional Ultra Low Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FTP"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAN"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANREF"; Value = "CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TVS-000000003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUP"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPREF"; Value = "652-CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 1"; Value = "12 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 2"; Value = "11 A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "DIONM5127X229N"; UniqueID = "\NUZLJWQT\HTHMTUYW" ("\NUZLJWQT\HTHMTUYW")
+Change component parameters (AddParameter): Name = "DES"; Value = "ESD Protection Diodes / TVS Diodes Bidirectional Ultra Low Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FTP"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAN"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANREF"; Value = "CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TVS-000000003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUP"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPREF"; Value = "652-CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 1"; Value = "12 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 2"; Value = "11 A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13" ("D13"); Footprint = "DIONM5127X229N"; UniqueID = "\NUZLJWQT\VFHBYKSJ" ("\NUZLJWQT\VFHBYKSJ")
+Change component parameters (AddParameter): Name = "DES"; Value = "ESD Protection Diodes / TVS Diodes Bidirectional Ultra Low Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FTP"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAN"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANREF"; Value = "CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TVS-000000003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUP"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPREF"; Value = "652-CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 1"; Value = "12 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 2"; Value = "11 A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14" ("D14"); Footprint = "DIONM5127X229N"; UniqueID = "\NUZLJWQT\TQUNHSMZ" ("\NUZLJWQT\TQUNHSMZ")
+Change component parameters (AddParameter): Name = "DES"; Value = "ESD Protection Diodes / TVS Diodes Bidirectional Ultra Low Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FTP"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAN"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANREF"; Value = "CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TVS-000000003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUP"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPREF"; Value = "652-CDSOD323-T12LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOL"; Value = "_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 1"; Value = "12 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value 2"; Value = "11 A"; VariantName = "[No Variations]"
