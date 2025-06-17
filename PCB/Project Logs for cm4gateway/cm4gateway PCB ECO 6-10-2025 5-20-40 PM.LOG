@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=RPi_3V3_OUT Pin=R22-1
-Removed Member From Class: ClassName=RPI Member=R22
-Added Pin To Net: NetName=RPi_3V3_OUT Pin=U4-78

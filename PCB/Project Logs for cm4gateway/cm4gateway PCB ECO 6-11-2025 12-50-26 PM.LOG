@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=UH_SCL Pin=TP32-1
-Removed Pin From Net: NetName=UH_SDA Pin=TP33-1
-Removed Member From Class: ClassName=USB HUB Member=TP32
-Removed Member From Class: ClassName=USB HUB Member=TP33
