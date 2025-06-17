@@ -32,7 +32,7 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 - Cellular modem (u-blox LARA-R6 4G/LTE)
 - SD card slot with write protection
 
-### Interfaces
+### Interfaces 
 - I2C for RTC and OLED display
 - Multiple GPIO breakout
 - Status LEDs (power, network, error, warning)
