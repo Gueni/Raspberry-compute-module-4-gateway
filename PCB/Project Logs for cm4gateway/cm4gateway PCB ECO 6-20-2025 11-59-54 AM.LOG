@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=LAN0_TX_N Pin=R108-2
+Added Pin To Net: NetName=LAN0_TX_P Pin=R109-2
+Added Pin To Net: NetName=LAN0_RX_N Pin=R111-2
+Added Pin To Net: NetName=LAN0_TX_N Pin=U23-2
+Added Pin To Net: NetName=LAN0_TX_P Pin=U23-3
+Added Pin To Net: NetName=LAN0_RX_N Pin=U23-5
+Added Differential Pair: Name=ETH_P0
+Added Differential Pair: Name=ETH_P1
+Added Differential Pair: Name=ETH_P2
+Added Differential Pair: Name=ETH_P3
+Added Differential Pair: Name=LAN0_RX
+Added Differential Pair: Name=LAN0_TX
+Added Differential Pair: Name=LAN1_RX
+Added Differential Pair: Name=LAN1_TX
+Added Class: Name=ETH_P0_DIFFPAIR
+Added Class: Name=ETH_P1_DIFFPAIR
+Added Class: Name=ETH_P2_DIFFPAIR
+Added Class: Name=ETH_P3_DIFFPAIR

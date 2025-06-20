@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LAN0_RX_N Pin=U23-
+Added Pin To Net: NetName=_D3_P Pin=U9-7
+Added Pin To Net: NetName=_D3_N Pin=U9-8
+Add Pin To Net: Unknown Pin: Pin U23-5
+Added Class: Name=USB_N_RS485_DIFFPAIR

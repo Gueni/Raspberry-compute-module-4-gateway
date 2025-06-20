@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=NetU9_7 New Net Name=USB_RS485_P
+Change Net Name : Old Net Name=NetU9_8 New Net Name=USB_RS485_N
+Change Net Name : Old Net Name=NetU23_11 New Net Name=USB_LAN0_N
+Change Net Name : Old Net Name=NetU23_12 New Net Name=USB_LAN0_P
+Change Net Name : Old Net Name=NetU28_11 New Net Name=USB_LAN1_N
+Change Net Name : Old Net Name=NetU28_12 New Net Name=USB_LAN1_P
+Added Differential Pair: Name=USB_LAN0
+Added Differential Pair: Name=USB_LAN1
+Added Differential Pair: Name=USB_RS485
+Added Class: Name=USB_N_RS485_DIFFPAIR
+Added Class: Name=USB_P_LAN0_DIFFPAIR
+Added Class: Name=USB_P_LAN1_DIFFPAIR
