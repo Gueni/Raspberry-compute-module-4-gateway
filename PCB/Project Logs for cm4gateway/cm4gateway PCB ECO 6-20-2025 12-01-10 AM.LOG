@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=RPI_RST Pin=U19-1
-Added Pin To Net: NetName=RST Pin=U19-1
-Added Net: Name=RST

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\WORKSPACE\compute-module-4-gateway\PCB\cm4gateway.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=cm4gateway.ncd.r0-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=cm4gateway.ncd.r0-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl

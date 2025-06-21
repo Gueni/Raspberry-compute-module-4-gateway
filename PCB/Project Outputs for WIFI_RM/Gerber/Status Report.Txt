@@ -1,0 +1,10 @@
+Output: cm4gateway.R0
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [cm4gateway.PcbDoc]
+   Generated File[cm4gateway.R0.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:42:21 PM On 6/21/2025

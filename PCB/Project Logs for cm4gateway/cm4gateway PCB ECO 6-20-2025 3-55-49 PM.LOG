@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=LAN1_TX_P Pin=J13-B5
-Added Pin To Net: NetName=ETH_TR_CT_LAN_1 Pin=J13-B5
-Add Pin To Net: Unknown Pin: Pin U23-5

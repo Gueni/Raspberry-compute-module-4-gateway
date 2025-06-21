@@ -1,4 +1,0 @@
-Change Net Name : Old Net Name=NetU21_28 New Net Name=USB_CELL_N
-Change Net Name : Old Net Name=NetU21_29 New Net Name=USB_CELL_P
-Added Differential Pair: Name=USB_CELL
-Added Class: Name=USB_CELL_DIFFPAIR
