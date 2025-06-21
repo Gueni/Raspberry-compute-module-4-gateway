@@ -19,7 +19,7 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 - **Multiple GPIO** breakout options
 
 ## Hardware Specifications
-![Gateway open](3.png)
+![PCB3D](4.png)
 ### Power Supply
 - Input voltage: 5V DC
 - Dual LMR33640 switching regulators (3.8V and 5V outputs)
@@ -37,9 +37,8 @@ Compact industrial-grade gatewaysolution based on Raspberry Pi Compute Module 4 
 - Multiple GPIO breakout
 - Status LEDs (power, network, error, warning)
 - Reset and user buttons
-![PCB3D](4.png)
-![PCB](5.png)
-![PCB3Dback](6.png)
+
+![Gateway open](3.png)
 ## Schematic Overview
 
 The design consists of several key sections:
